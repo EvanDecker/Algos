@@ -46,10 +46,10 @@ coordinates.length == 2
   //o: boolean: true if square is white, false if square is black
 };
 
-const coordinates = "a1";
-const coordinates2 = "h3";
-const coordinates3 = "c7";
+// const coordinates = "a1";
+// const coordinates2 = "h3";
+// const coordinates3 = "c7";
 
-console.log(squareIsWhite(coordinates));
-console.log(squareIsWhite(coordinates2));
-console.log(squareIsWhite(coordinates3));
+// console.log(squareIsWhite(coordinates));
+// console.log(squareIsWhite(coordinates2));
+// console.log(squareIsWhite(coordinates3));
