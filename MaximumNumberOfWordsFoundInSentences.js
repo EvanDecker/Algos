@@ -45,8 +45,8 @@ All the words in sentences[i] are separated by a single space.
   return n;
 };
 
-const sentences = ["alice and bob love leetcode","i think so too","this is great thanks very much"];
-const sentences2 = ["please wait","continue to fight","continue to win"];
+// const sentences = ["alice and bob love leetcode","i think so too","this is great thanks very much"];
+// const sentences2 = ["please wait","continue to fight","continue to win"];
 
-console.log(mostWordsFound(sentences));
-console.log(mostWordsFound(sentences2));
+// console.log(mostWordsFound(sentences));
+// console.log(mostWordsFound(sentences2));
