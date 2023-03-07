@@ -40,7 +40,7 @@ s consists only of printable ASCII characters.
   for(let i = 0; i < string.length; i++) {
       if(string[a] === string[b]) {
           a++;
-          b--
+          b--;
       } else {
       return false;
       }
